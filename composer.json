@@ -64,5 +64,6 @@
         "scheb/2fa-qr-code": "^5.0",
         "scheb/2fa-totp": "^5.0",
         "scheb/2fa-trusted-device": "^5.0"
-    }
+    },
+    "minimum-stability": "beta"
 }
